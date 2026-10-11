@@ -1,0 +1,96 @@
+body {
+    font-family: 'Fahkwang', sans-serif;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+html {
+    background-color: #e9ddcf;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.w {
+    width: 25%;
+}
+
+
+#stuff {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+p {
+    color: black;
+    line-height: 1.5;
+}
+
+.containerh {
+    font-size: 1.1rem;
+    padding-left: 4rem;
+    padding-right: 2rem;   
+    margin: -1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9ddcf
+
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+
+}
+
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 1.4rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #785e26;
+    text-decoration: underline;
+}
+
+.footerl {
+    bottom: 0;
+    float: left;
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-right: 6rem;
+    width: 30%
+}
+
+section {
+    background-color: #e9ddcf
+}
+
+.footerr {
+    text-align: center;
+    display:flow-root;
+
+}
+
+a {
+    text-decoration: underline
+}
+
+.p1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: center;
+    color: #785e26;
+    display: flex;
+    flex-direction: column;
+}

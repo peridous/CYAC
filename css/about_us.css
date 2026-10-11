@@ -1,0 +1,174 @@
+body {
+    background-color: #f3eade;
+    font-family: 'Fahkwang', sans-serif;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+html {
+    background-color: #e9ddcf;
+}
+
+.containerh {
+    font-size: 1.1rem;
+    padding-left: 4rem;
+    padding-right: 2rem;   
+    margin: -1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9ddcf
+
+}
+
+
+.center {
+    margin: 0 auto;
+}
+
+
+#stuff {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+
+}
+
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 1.4rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #785e26;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.w {
+    width: 25%;
+}
+
+
+about_us {
+    text-align: left;
+    width: 50%;
+}
+
+
+
+h3 {
+    font-size: 4rem;
+    color: #785e26;
+    padding-left: 4rem;
+    margin-bottom: 1rem;
+    font-weight: 200;
+}
+
+/*h4 {
+    font-size: 2rem;
+    color:#785e26;
+    margin-bottom: 1rem;
+    font-weight: 200;
+}*/
+
+h4 {
+    font-size: 2rem;
+    color:#785e26;
+    font-weight: 400;
+    text-align: center;
+    margin-right:50%;
+    margin-left: 4rem;
+    margin-bottom: 0rem;
+}
+h5 {
+    font-size: 1rem;
+    color:#785e26;
+    font-weight: 400;
+}   
+
+.boxed {
+    padding: .8rem;
+    margin-right: 50%;
+    margin-left:4rem;
+    margin-bottom: 2rem;
+    background-color: #e8dfd4;
+    border: 2px solid #785e26;
+    display: inline-block;
+
+}
+
+p {
+    color: black;
+    line-height: 1.5;
+}
+.p1 { 
+    padding-left: 4rem;
+    width: 33%;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+.p2 {
+    width: 33%;
+    margin-left: auto;
+    padding-right: 8rem;
+    font-size: 1.1rem;
+}
+
+/*.p3 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 2rem;
+}*/
+.p3 {
+    text-align: center;
+    margin-right: 50%;
+    margin-left: 4rem;
+
+}
+
+
+
+
+purpose {
+    text-align: right;
+}
+
+
+.footerl {
+    bottom: 0;
+    float: left;
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-right: 1rem;
+    width: 30%;
+}
+
+section {
+    background-color: #e9ddcf;
+}
+
+.footerr {
+    text-align: center;
+    display:flow-root;
+
+
+}

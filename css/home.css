@@ -1,0 +1,128 @@
+body {
+
+    font-family: 'Fahkwang', sans-serif;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+html {
+    background-color: #e9ddcf;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.w {
+    width: 25%;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+
+}
+
+.boxed {
+    padding: .6rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    background-color: #f3eade;
+    border: 2px solid #785e26;
+    display: inline-block;
+
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    padding: 1.4rem;
+    text-decoration: none;
+}
+
+#stuff {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+p {
+    color: black;
+    line-height: 1.5;
+}
+
+.containerh {
+    font-size: 1.1rem;
+    padding-left: 4rem;
+    padding-right: 2rem;   
+    margin: -1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9ddcf
+
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+
+}
+
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 1.4rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #785e26;
+    text-decoration: underline;
+}
+.footerl {
+    bottom: 0;
+    float: left;
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-right: 6rem;
+    width: 30%
+}
+
+section {
+    background-color: #e9ddcf
+}
+
+.footerr {
+    text-align: center;
+    display:flow-root;
+
+}
+
+.h2 {
+
+    font-size: 4rem;
+    color: #785e26;
+    padding-left: 4rem;
+    margin-bottom: 1rem;
+
+}
+
+
